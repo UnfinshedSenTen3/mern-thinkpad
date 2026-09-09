@@ -13,6 +13,9 @@ const router = express.Router();
 //route /endpoint(a url+http methof allowing client tointerect with specific res)
 router.get("/", getAllNotes);
 
+//enpoint to fetch a specific/single note 
+router.get("/:id", getNoteById);
+
 //endpoint to create a note
 router.post("/", createNote);
 
