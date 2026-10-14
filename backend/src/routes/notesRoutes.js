@@ -4,6 +4,7 @@ import {
   deleteNote,
   getAllNotes,
   updateNote,
+  getNoteById
 } from "../controllers/notesController.js";
 
 //router object to group related routes
