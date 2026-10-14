@@ -1,5 +1,6 @@
 node_modules/
 .env
+# GPT-added: ignore local environment variants while allowing a safe example file.
 .env.*
 !.env.example
 dist/
