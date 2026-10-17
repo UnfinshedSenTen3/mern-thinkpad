@@ -1,3 +1,5 @@
+VIEW WEBSITE : https://mernthinkpad.netlify.app
+
 express - toolkit to implement code faster
 node - to run js on server side
 script in package.json - code words to run commands
